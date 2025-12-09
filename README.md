@@ -1,6 +1,10 @@
 # OpenGL-Studies
 This is for me to mess around with OpenGL with GLM 
 * Sources
+  
+  shaders:
+  
+    https://learnopengl.com/Getting-started/Shaders
 
   raymarching:
     
